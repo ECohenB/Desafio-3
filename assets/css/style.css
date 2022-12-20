@@ -1,0 +1,87 @@
+header {
+
+    text-align: center;
+    font-size: 3em;
+    font-family: "Raleway", sans-serif;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    background-image: url(".././img/bg-header.jpg");
+    background-position-y: 200px;
+    height: 840px;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+h1 {
+
+    text-align: center;
+    font-size: 3em;
+    font-family: "Raleway", sans-serif;
+    letter-spacing: 0px;
+    padding-bottom: 20px;
+    color: #FFFFFF;
+}
+
+
+body {
+
+    background-color: black;
+}
+
+
+
+img {
+    float: right;
+    width: 399px;
+    height: 237px;
+
+}
+
+p.central {
+    text-anchor: middle;
+    text-align: left;
+    font: normal normal 300 16px/19px Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box div {
+    width: 500px;
+    height: 300px;
+}
+
+nav li {
+    display: inline-block;
+    width: 32%;
+    color: #fff;
+    text-align: center;
+    font-size: 1.5em;
+    font-family: "Raleway", sans-serif;
+}
+
+.menu div {
+    background-color: rgb(53, 32, 24);
+    padding: 100px;
+    margin-bottom: 50px;
+
+
+}
+
+footer {
+    background-color: rgb(53, 32, 24);
+    color: #fff;
+    height: 100px;
+    margin-top: 50px;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 1.5em;
+    font-family: "Raleway", sans-serif;
+}
